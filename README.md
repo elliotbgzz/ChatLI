@@ -1,2 +1,2 @@
 # ChatLI
-Simple CLI live char, server-client model
+Simple CLI live chat, server-client model
